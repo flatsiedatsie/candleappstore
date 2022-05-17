@@ -90,3 +90,4 @@ jobs:
         asset_path: candleappstore-${{ env.RELEASE_VERSION }}-${{ matrix.platform }}-v${{ matrix.version }}.tgz.sha256sum
         asset_name: candleappstore-${{ env.RELEASE_VERSION }}-${{ matrix.platform }}-v${{ matrix.version }}.tgz.sha256sum
         asset_content_type: text/plain
+        
